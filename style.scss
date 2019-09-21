@@ -22,7 +22,7 @@ body {
     font-size: 1.5em;
     color: white;
     background: black;
-    @media only screen and (width:40em) {
+    @media only screen and (max-width:40em) {
         font-size: 1em;
     }
 }
@@ -46,7 +46,7 @@ header {
     align-items: center;
     p {
         width: 15vw; 
-        @media only screen and (width:50rem) and (width:40rem)  {
+        @media only screen and (max-width:50rem) and (min-width:40rem)  {
             font-size: 0.8em;
         }
     }
@@ -65,13 +65,13 @@ header {
         & li {
             display: inline-block;
             font-size: 1.4em;
-            @media only screen and (width:50rem){
+            @media only screen and (max-width:50rem){
                 font-size: 1em;
                 display: block;
             }
         }
     }
-    @media only screen and (width:40rem){
+    @media only screen and (max-width:40rem){
         img {
             width: 100vw;
         }
@@ -99,7 +99,7 @@ nav {
             a {
                 text-decoration: none;
                 text-align: center;
-                @media only screen and (width:30rem) {
+                @media only screen and (max-width:30rem) {
                     font-family: icomoon;
                 }
             }
@@ -118,7 +118,7 @@ nav {
 }
 
 main {
-    width: 50rem;
+    max-width: 50rem;
     margin: auto;
     p {
         display: flex;
@@ -193,7 +193,7 @@ aside {
     float: right;
     width: 50%;
     margin-top: 2em;
-    @media only screen and (width:25rem) {
+    @media only screen and (max-width:25rem) {
         float: none;
         margin-bottom: 1em;
     }
