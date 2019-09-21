@@ -180,7 +180,7 @@ h3 + img {
 }
 
 #opening {
-    width: 50%;
+    min-width: 50%;
     display: flex;
     flex-flow: row nowrap;
     align-items: flex-end;
@@ -191,7 +191,7 @@ h3 + img {
 
 aside {
     float: right;
-    width: 50%;
+    min-width: 50%;
     margin-top: 2em;
     @media only screen and (max-width:25rem) {
         float: none;
