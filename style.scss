@@ -130,10 +130,19 @@ main {
 }
 
 
-footer p {
-    margin: 0 auto;
-    text-align: center;
-    font-size: 0.8em;
+footer {
+    margin-top: 1em;
+    p {
+        margin: 0 auto;
+        text-align: center;
+        font-size: 0.8em;
+        &:last-of-type {
+            font-size: 0.8em;
+            a {
+                color: rebeccapurple;
+            }
+        }
+    }
 }
 
 h1  {
@@ -221,12 +230,5 @@ article {
     scrollbar-color: rebeccapurple black;
     @media only screen and (max-width:30rem) {
         margin-top: -15rem;
-    }
-}
-
-footer p:last-of-type {
-    font-size: 0.8em;
-    a {
-        color: rebeccapurple;
     }
 }
