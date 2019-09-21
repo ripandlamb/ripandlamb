@@ -22,7 +22,7 @@ body {
     font-size: 1.5em;
     color: white;
     background: black;
-    @media only screen and (max-width:40em) {
+    @media only screen and (width:40em) {
         font-size: 1em;
     }
 }
@@ -42,41 +42,41 @@ header {
     display: flex;
     background: black;
     flex-flow: row wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     p {
-        max-width: 15vw; 
-        @media only screen and (max-width:50rem) and (min-width:40rem)  {
+        width: 15vw; 
+        @media only screen and (width:50rem) and (width:40rem)  {
             font-size: 0.8em;
         }
     }
     h1 {
-        max-width: 15vw;
+        width: 15vw;
     }
     img {
         min-height: 4rem;
-        min-width: 50%;
+        width: 50%;
     }
     > ul {
-        max-width: 15vw;
+        width: 15vw;
         list-style-type: none;
         font-family: icomoon;
         padding-left: 0;
         & li {
             display: inline-block;
             font-size: 1.4em;
-            @media only screen and (max-width:50rem){
+            @media only screen and (width:50rem){
                 font-size: 1em;
                 display: block;
             }
         }
     }
-    @media only screen and (max-width:40rem){
+    @media only screen and (width:40rem){
         img {
-            max-width: 100vw;
+            width: 100vw;
         }
         h1, p {
-            max-width: 35vw;
+            width: 35vw;
         }
     }
 }
@@ -92,14 +92,14 @@ nav {
         list-style-type: none;
         display: flex;
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: space-around;
         align-items: center;
         padding-left: 0;
         li {
             a {
                 text-decoration: none;
                 text-align: center;
-                @media only screen and (max-width:30rem) {
+                @media only screen and (width:30rem) {
                     font-family: icomoon;
                 }
             }
@@ -118,7 +118,7 @@ nav {
 }
 
 main {
-    max-width: 50rem;
+    width: 50rem;
     margin: auto;
     p {
         display: flex;
@@ -151,11 +151,11 @@ h1  {
 }
 
 .hero {
-    max-width: 100%;
+    width: 100%;
 }
 
 img {
-    max-width: 25%;
+    width: 25%;
     border: 4px solid black;
 }
 
@@ -176,11 +176,11 @@ img {
 
 h3 + img {
     float:right;
-    min-width: 30%;
+    width: 30%;
 }
 
 #opening {
-    min-width: 50%;
+    width: 50%;
     display: flex;
     flex-flow: row nowrap;
     align-items: flex-end;
@@ -191,9 +191,9 @@ h3 + img {
 
 aside {
     float: right;
-    min-width: 50%;
+    width: 50%;
     margin-top: 2em;
-    @media only screen and (max-width:25rem) {
+    @media only screen and (width:25rem) {
         float: none;
         margin-bottom: 1em;
     }
@@ -228,7 +228,7 @@ article {
     margin-top: -25em;
     scrollbar-width: thin;
     scrollbar-color: rebeccapurple black;
-    @media only screen and (max-width:30rem) {
+    @media only screen and (width:30rem) {
         margin-top: -15rem;
     }
 }
