@@ -127,9 +127,9 @@ main {
 }
 
 
-footer{
-    display: flex;
-    justify-content: center;
+footer p {
+    margin: 0 auto;
+    text-align: center;
     font-size: 0.8em;
 }
 
@@ -205,5 +205,18 @@ article {
     }
     p:last-of-type {
         margin-bottom: 0;
+    }
+}
+
+.ribbon-gallery {
+    margin-top: -25em;
+    scrollbar-width: thin;
+    scrollbar-color: rebeccapurple black;
+}
+
+footer p:last-of-type {
+    font-size: 0.8em;
+    a {
+        color: rebeccapurple;
     }
 }

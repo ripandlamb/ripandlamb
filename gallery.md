@@ -31,3 +31,8 @@ order: 3
 ![]({{ site.baseurl }}/images/27.jpg)
 ![]({{ site.baseurl }}/images/28.jpg)
 ![]({{ site.baseurl }}/images/29.jpg)
+{: .ribbon-gallery}
+
+<link rel="stylesheet" href="ribbon-gallery.min.css">
+<script src="//code.jquery.com/jquery-latest.min.js"></script>
+<script src="ribbon-gallery.min.js"></script>
