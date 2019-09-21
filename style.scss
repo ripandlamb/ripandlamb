@@ -152,10 +152,12 @@ h1  {
 
 .hero {
     flex-basis: 100%;
+    max-width: 100%;
 }
 
 img {
     flex-basis: 25%;
+    max-width: 25%;
     height: auto;
     border: 4px solid black;
 }
