@@ -1,0 +1,48 @@
+---
+---
+
+<!DOCTYPE html> 
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta nsme="description" content="{{ site.description }}" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/colonsay.png" />
+    <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />    
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Ripley and Lambert | 🎥</title>
+</head>
+<body>
+    <header>
+        <img src="{{ site.baseurl }}/images/longlogo.png" />
+        <h1><a href="{{ site.baseurl }}/index.html">Film Bookshop and Café</a></h1>
+        <p><a href="{{ site.baseurl }}/find-us.html">{{ site.street_address }}</a></p>
+        <ul id="socials">
+            <li><a href="https://www.facebook.com/{{ site.facebook_username }}">facebook</a></li>
+            <li><a href="https://www.twitter.com/{{ site.twitter_username }}">twitter</a></li>
+            <li><a href="https://www.instagram.com/{{ site.instagram_username }}">instagram</a></li>
+        </ul>
+
+        <nav>
+            <ul>
+                {% assign pages = site.pages | sort: 'order' %}
+                {% for page in pages %}
+                    {% if page.url contains ".html" %}
+                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </header>
+
+
+    <main id="main-content">
+        {{ content | markdownify }}
+    </main>
+
+    <footer>
+        <p>&copy; 2019 Ripley &amp; Lambert - <a href="{{ site.baseurl }}/contact">Contact Us</a></p>
+    </footer>
+
+</body>
+</html>

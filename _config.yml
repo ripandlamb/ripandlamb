@@ -1,0 +1,36 @@
+title: Ripley and Lambert
+email: info@ripleyandlambert.co.uk
+description: >- 
+  An independent, specialist film bookshop & café in Dalston, East London
+baseurl: "/RNL" 
+url: "" 
+twitter_username: ripandlamb
+instagram_username: ripleyandlambert
+facebook_username: ripleyandlambert
+street_address: 542 Kingsland Road, Dalston, London, E8 4AH
+
+future: true
+collections: 
+  - events
+  - pasts
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
