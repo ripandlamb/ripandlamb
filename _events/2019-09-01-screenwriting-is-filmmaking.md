@@ -1,9 +1,9 @@
 ---
 title: Screenwriting is Filmmaking – an Introduction to Screenwriting and Script Development
 speaker: Brian Dunnigan
-speakersite: https://uk.linkedin.com/in/brian-dunnigan-84034747
+speakersite: https://briandunniganfilm.com
 date: 2019-10-30
-time: 6pm
+time: 6pm - talk will begin at 6:30pm
 image: https://www.crowood.com/images/covers/006098.jpg
 ---
 

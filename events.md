@@ -6,31 +6,39 @@ order: 5
 ## Upcoming events at Ripley & Lambert
 
 {% for post in site.events %}
-### {{ post.title }}
+<article>
+<h3>{{ post.title }}</h3>
 
-![{{ post.title }}]({{ post.image }})
+<img src="{{ post.image }}" title="{{ post.title }}">
 
-with [{{ post.speaker }}]({{ post.speakersite }})
+<p>with <a href="{{ post.speakersite }}">{{ post.speaker }}</a></p>
 
-**{{ post.date | date_to_long_string: "ordinal" }}**
+<p><strong>{{ post.date | date_to_long_string: "ordinal" }}</strong></p>
 
-{{ post.time }}
+<p>{{ post.time }}</p>
 
-{{ post.content }}
+{{ post.content | markdownify }}
 
+</article>
 {% endfor %}
 
+{% if site.pasts.size > 0 %}
 ## Previous events at Ripley & Lambert
+{% endif %}
 
 {% for post in site.pasts %}
-### {{ post.title }}
-with [{{ post.speaker }}]({{ post.speakersite }})
+<article>
+<h3>{{ post.title }}</h3>
 
-**{{ post.date | date_to_long_string: "ordinal" }}**
-{{ post.time }}
+<img src="{{ post.image }}" title="{{ post.title }}">
 
-![{{ post.title }}]({{ post.image }})
+<p>with <a href="{{ post.speakersite }}">{{ post.speaker }}</a></p>
 
-{{ post.content }}
+<p><strong>{{ post.date | date_to_long_string: "ordinal" }}</strong></p>
 
+<p>{{ post.time }}</p>
+
+{{ post.content | markdownify }}
+
+</article>
 {% endfor %}

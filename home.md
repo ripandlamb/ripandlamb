@@ -10,17 +10,28 @@ Welcome to Ripley and Lambert!
 {{ site.description }}
 
 <aside>
-<a href="{{ site.baseurl}}/contact.html">{{ site.street_address | split: ", " | join: "<br />" }}</a>
+<a href="{{ site.baseurl}}/find.html">{{ site.street_address | split: ", " | join: "<br />" }}</a>
 </aside>
 
-Opening hours:  
-Monday: Closed  
-Tuesday: 8am - 7pm  
-Wednesday: 8am - 7pm  
-Thursday: 8am - 7pm  
-Friday: 8am - 7pm  
-Saturday: 8am - 7pm  
-Sunday: 9am - 7pm
+<div><p>
+Opening hours:<br />
+Monday:<br />
+Tuesday:<br />
+Wednesday:<br />
+Thursday:<br />
+Friday:<br />
+Saturday:<br />
+Sunday:
+</p>
+<p>
+Closed<br /> 
+8am - 7pm<br />
+8am - 7pm<br />
+8am - 7pm<br />
+8am - 7pm<br />
+8am - 7pm<br />
+9am - 7pm</p>
+</div>
 
 We sell a curated range of books about all aspects of film and television, including film analysis and criticism, graphic novels, books adapted for the screen, biographies, and much more.
 

@@ -3,6 +3,8 @@ title: News
 order: 4
 ---
 
+## Insta - [follow us!](https://instagram.com/ripleyandlambert)
+
 <div id="instafeed"></div>
 
 <a class="twitter-timeline" data-theme="dark" data-height="600" href="https://twitter.com/ripandlamb?ref_src=twsrc%5Etfw">Tweets by ripandlamb</a>

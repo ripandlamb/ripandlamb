@@ -5,6 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Raleway|Josefin+Sans:300,400&display=swap');
 @font-face { font-family:icomoon; src: url("icomoon.woff");}
+@font-face { font-family:arizona; src: url("arizona.woff2");}
 
 html {
     box-sizing:border-box
@@ -15,7 +16,7 @@ html {
 }
 
 body {
-    margin-top: 22rem;
+    margin-top: 21rem;
     font-family: "Josefin Sans", sans-serif;
     font-weight: 300;
     font-size: 1.5em;
@@ -27,7 +28,8 @@ body {
 }
 
 header {
-    font-family: "Raleway", sans-serif;
+    font-family: arizona, sans-serif;
+    font-size: 1.4em;
     position: fixed;
     @media only screen and (max-height:30rem){
         position: absolute;
@@ -47,16 +49,6 @@ header {
     }
     h1 {
         max-width: 15vw; 
-    }
-    a {
-        text-decoration: none;
-        color: white;
-        &:hover {
-            text-decoration: underline;
-        }
-        :visited {
-            color: white;
-        }
     }
     img {
         min-height: 4rem;
@@ -88,10 +80,12 @@ header {
 
 nav {
     font-family: "Raleway", sans-serif;
+    font-size: 0.714em;
     width: 100vw;
     padding: 0 1em;
     background: black;
     ul {
+        margin: 0;
         list-style-type: none;
         display: flex;
         flex-direction: row;
@@ -168,15 +162,48 @@ img {
     }
 }
 
-h3 + p {
+h3 + img {
     float:right;
     min-width: 30%;
-    > img {
-        min-width: 100%;
+}
+
+div {
+    min-width: 50%;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-end;
+    p {
+        margin: 0;
     }
 }
 
 aside {
     float: right;
     min-width: 50%;
+    margin-top: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    &:hover {
+        text-decoration: underline;
+    }
+    :visited {
+        color: white;
+    }
+}
+
+article {
+    border: 1px solid white;
+    padding: 1em;
+    a {
+        text-decoration: underline;
+    }
+    h3 {
+        margin-top: 0;
+    }
+    p:last-of-type {
+        margin-bottom: 0;
+    }
 }
