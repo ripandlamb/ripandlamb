@@ -13,7 +13,7 @@ Welcome to Ripley and Lambert!
 <a href="{{ site.baseurl}}/find.html">{{ site.street_address | split: ", " | join: "<br />" }}</a>
 </aside>
 
-<div><p>
+<div id="opening"><p>
 Opening hours:<br />
 Monday:<br />
 Tuesday:<br />
