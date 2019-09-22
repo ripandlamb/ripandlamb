@@ -45,20 +45,20 @@ header {
     justify-content: space-around;
     align-items: center;
     p {
-        width: 15vw; 
+        max-width: 15vw; 
         @media only screen and (max-width:50rem) and (min-width:40rem)  {
             font-size: 0.8em;
         }
     }
     h1 {
-        width: 15vw;
+        max-width: 15vw;
     }
     img {
         min-height: 4rem;
-        width: 50%;
+        max-width: 50%;
     }
     > ul {
-        width: 15vw;
+        max-width: 15vw;
         list-style-type: none;
         font-family: icomoon;
         padding-left: 0;
@@ -120,13 +120,6 @@ nav {
 main {
     max-width: 50rem;
     margin: auto;
-    p {
-        display: flex;
-        flex-flow: row wrap;
-        a {
-            margin: 0 0.4em;
-        }
-    }
 }
 
 
@@ -156,9 +149,8 @@ h1  {
 }
 
 img {
-    flex-basis: 25%;
-    max-width: 25%;
-    height: auto;
+    display: inline-block;
+    max-width: 24%;
     border: 4px solid black;
 }
 
@@ -179,7 +171,7 @@ img {
 
 h3 + img {
     float:right;
-    width: 30%;
+    max-width: 30%;
 }
 
 #opening {
