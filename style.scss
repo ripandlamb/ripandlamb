@@ -73,7 +73,7 @@ header {
     }
     @media only screen and (max-width:40rem){
         img {
-            width: 100vw;
+            max-width: 100vw;
         }
         h1, p {
             width: 35vw;
