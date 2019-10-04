@@ -217,6 +217,9 @@ article {
     p:last-of-type {
         margin-bottom: 0;
     }
+    & + article {
+        margin-top: 1em;
+    }
 }
 
 .ribbon-gallery {
