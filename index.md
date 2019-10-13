@@ -29,8 +29,8 @@ Closed<br />
 8am - 7pm<br />
 8am - 7pm<br />
 8am - 7pm<br />
-8am - 7pm<br />
-9am - 7pm</p>
+10am - 7pm<br />
+10am - 7pm</p>
 </div>
 
 We sell a curated range of books about all aspects of film and television, including film analysis and criticism, graphic novels, books adapted for the screen, biographies, and much more.
