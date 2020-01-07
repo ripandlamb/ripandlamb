@@ -25,6 +25,7 @@ order: 5
 {% if site.pasts.size > 0 %}
 
 ## Regular events at Ripley & Lambert
+{% endif %}
 
 {% for post in site.regular %}
 <article>
