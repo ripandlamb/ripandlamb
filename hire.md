@@ -1,6 +1,6 @@
 ---
 title: Hire
-order: 6
+order: 5
 ---
 
 Looking for a beautiful and unique space to hire? 
