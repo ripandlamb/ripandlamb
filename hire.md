@@ -1,11 +1,11 @@
 ---
 title: Hire
-order: 8
+order: 6
 ---
 
 Looking for a beautiful and unique space to hire? 
 
-Photos on way!
+Photos on the way!
 
 Ripley and Lambert have a variety of options depending on your requirements, whether a meeting space during the day or the full shop for an evening event.
 
