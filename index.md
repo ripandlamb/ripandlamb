@@ -3,7 +3,9 @@ title: Home
 order: 1
 ---
 
+<div class="splash">
 <img class="hero" src="{{ site.baseurl }}/images/hero.jpg" />
+</div>
 
 Welcome to Ripley and Lambert!
 
