@@ -13,6 +13,7 @@ future: true
 collections: 
   - events
   - pasts
+  - regular
 defaults:
   -
     scope:
