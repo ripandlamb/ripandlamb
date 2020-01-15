@@ -3,6 +3,12 @@ title: News
 order: 4
 ---
 
+Press
+
+[Time Out]https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419
+
+[Hackney Citizen]https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/
+
 ## Insta - [follow us!](https://instagram.com/ripleyandlambert)
 
 <div id="instafeed"></div>
