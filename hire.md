@@ -9,10 +9,10 @@ Looking for a beautiful and unique space to hire?
 ![]({{ site.baseurl }}/images/Back room from right.jpg)
 ![]({{ site.baseurl }}/images/Back room centre.jpg)
 ![]({{ site.baseurl }}/images/Back Room Board.jpg)
-![]({{ site.baseurl }}/images/basement-1.jpg)
-![]({{ site.baseurl }}/images/basement-2.jpg)
-![]({{ site.baseurl }}/images/basement-3.jpg)
-![]({{ site.baseurl }}/images/basement-4.jpg)
+![]({{ site.baseurl }}/images/Basement Photo 1.jpg)
+![]({{ site.baseurl }}/images/Basement Photo 3.jpg)
+![]({{ site.baseurl }}/images/Basement Photo 5.jpg)
+![]({{ site.baseurl }}/images/Cleared from the back.jpg)
 
 Ripley and Lambert have a variety of options depending on your requirements, whether a meeting space during the day or the full shop for an evening event.
 
