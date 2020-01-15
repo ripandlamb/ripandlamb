@@ -4,7 +4,9 @@ order: 1
 ---
 
 <div class="splash">
-<img class="hero" src="{{ site.baseurl }}/images/hero.jpg" />
+    <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br />Time Out</a></p>
+    <img class="hero" src="{{ site.baseurl }}/images/hero.jpg" />
+    <p><a href="https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/">"Cafe paradise for film fans"<br />Hackney Citizen</a></p>
 </div>
 
 Welcome to Ripley and Lambert!
@@ -12,10 +14,11 @@ Welcome to Ripley and Lambert!
 {{ site.description }}
 
 <aside>
-<a href="{{ site.baseurl}}/find.html">{{ site.street_address | split: ", " | join: "<br />" }}</a>
+    <a href="{{ site.baseurl}}/find.html">{{ site.street_address | split: ", " | join: "<br />" }}</a>
 </aside>
 
-<div id="opening"><p>
+<div id="opening">
+    <p>
 Opening hours:<br />
 Monday:<br />
 Tuesday:<br />
@@ -24,15 +27,16 @@ Thursday:<br />
 Friday:<br />
 Saturday:<br />
 Sunday:
-</p>
-<p>
+    </p>
+    <p>
 Closed<br /> 
 8am - 7pm<br />
 8am - 7pm<br />
 8am - 7pm<br />
 8am - 7pm<br />
 10am - 7pm<br />
-10am - 7pm</p>
+10am - 7pm
+    </p>
 </div>
 
 We sell a curated range of books about all aspects of film and television, including film analysis and criticism, graphic novels, books adapted for the screen, biographies, and much more.
