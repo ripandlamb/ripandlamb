@@ -4,9 +4,9 @@ order: 1
 ---
 
 <div class="splash">
-    <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br />Time Out</a></p>
+    <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
     <img class="hero" src="{{ site.baseurl }}/images/hero.jpg" />
-    <p><a href="https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/">"Cafe paradise for film fans"<br />Hackney Citizen</a></p>
+    <p><a href="https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/">"Cafe paradise for film fans"<br /><br />Hackney Citizen</a></p>
 </div>
 
 Welcome to Ripley and Lambert!
