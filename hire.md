@@ -8,7 +8,7 @@ Looking for a beautiful and unique space to hire?
 ![]({{ site.baseurl }}/images/Back room from left.jpg)
 ![]({{ site.baseurl }}/images/Back room from right.jpg)
 ![]({{ site.baseurl }}/images/Back room centre.jpg)
-![]({{ site.baseurl }}/images/Back Room Board.jpg)
+![]({{ site.baseurl }}/images/Back Room Reverse.jpg)
 ![]({{ site.baseurl }}/images/Basement Photo 1.jpg)
 ![]({{ site.baseurl }}/images/Basement Photo 3.jpg)
 ![]({{ site.baseurl }}/images/Basement Photo 5.jpg)
