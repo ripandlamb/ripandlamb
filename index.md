@@ -30,10 +30,10 @@ Sunday:
     </p>
     <p>
 Closed<br /> 
-8am - 7pm<br />
-8am - 7pm<br />
-8am - 7pm<br />
-8am - 7pm<br />
+8am - 6pm<br />
+8am - 6pm<br />
+8am - 6pm<br />
+8am - 6pm<br />
 10am - 6pm<br />
 10am - 6pm
     </p>
