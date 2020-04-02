@@ -3,7 +3,7 @@ title: Events
 order: 5
 ---
 
-## Upcoming events at Ripley & Lambert
+## Upcoming Ripley & Lambert events
 
 {% for post in site.events %}
 <article>
