@@ -3,6 +3,27 @@ title: Events
 order: 5
 ---
 
+## Upcoming ONLINE events at Ripley & Lambert
+
+{% for post in site.events %}
+<article>
+<h3>{{ post.title }}</h3>
+
+<img src="{{ post.image }}" title="{{ post.title }}">
+
+<p>with <a href="{{ post.speakersite }}">{{ post.speaker }}</a></p>
+
+<p><strong>{{ post.date | date_to_long_string: "ordinal" }}</strong></p>
+
+<p>{{ post.time }}</p>
+
+{{ post.content | markdownify }}
+
+</article>
+{% endfor %}
+
+{% if site.pasts.size > 0 %}
+
 ## Upcoming events at Ripley & Lambert
 
 {% for post in site.events %}
