@@ -5,7 +5,7 @@ order: 5
 
 ## Upcoming ONLINE events at Ripley & Lambert
 
-{% for post in site.events %}
+{% for post in site.onlineevents %}
 <article>
 <h3>{{ post.title }}</h3>
 
