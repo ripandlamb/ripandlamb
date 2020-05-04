@@ -9,7 +9,7 @@ is now open!
 Our full selection of fantastic film books is available to be ordered online and posted right to your door!  
 
 Click
-[here](https://shop.ripleyandlambert.com/)
+[HERE](https://shop.ripleyandlambert.com/)
 to go directly to the online shop.
 
 Our physical shop remains closed due to the COVID-19 lockdown, but we will keep you updated via social media on the reopening of the shop and rescheduling of our events.
