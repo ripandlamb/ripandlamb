@@ -3,11 +3,12 @@ title: Home
 order: 1
 ---
 
-Due to the ongoing threat from COVID-19 we have taken the decision to temporarily close Ripley and Lambert until further notice.
+The Ripley and Lambert Online Shop is now open!  Our full selection of fantastic film books is available to be ordered online and posted right to your door!  
 
-We have also postponed all our upcoming events until further notice.
+Click here to go directly to the online shop.
+[here](https://shop.ripleyandlambert.com/)
 
-We will keep you updated via social media on the reopening of the shop and rescheduling of our events.
+Our physical shop remains closed due to the COVID-19 lockdown, but we will keep you updated via social media on the reopening of the shop and rescheduling of our events.
 
 Stay safe and take care of each other.
 
