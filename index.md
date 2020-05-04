@@ -2,7 +2,9 @@
 title: Home
 order: 1
 ---
-The Ripley and Lambert Online Shop is now open!  
+The 
+[Ripley and Lambert Online Shop](https://shop.ripleyandlambert.com/) 
+is now open!  
 
 Our full selection of fantastic film books is available to be ordered online and posted right to your door!  
 
