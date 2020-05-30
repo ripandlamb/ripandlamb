@@ -8,7 +8,8 @@ order: 1
 From Tuesday 2nd June we will be opening for takeaway and book sales at the door.
 Our new opening times will be 10am - 4pm, Tuesday to Sunday.
 
-               We look forward to seeing you all!
+We look forward to seeing you all!
+
 
 ALSO...
 The 
