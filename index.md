@@ -2,6 +2,13 @@
 title: Home
 order: 1
 ---
+
+The Return of Ripley and Lambert!
+From Tuesday 2nd June we will be opening for takeaway and book sales at the door.
+Our new opening times will be 10am - 4pm, Tuesday to Sunday.
+We look forward to seeing you all!
+
+Also...
 The 
 [Ripley and Lambert Online Shop](https://shop.ripleyandlambert.com/) 
 is now open!  
@@ -11,10 +18,6 @@ Our full selection of fantastic film books is available to be ordered online and
 Click
 [HERE](https://shop.ripleyandlambert.com/)
 to go directly to the online shop.
-
-Our physical shop remains closed due to the COVID-19 lockdown, but we will keep you updated via social media on the reopening of the shop and rescheduling of our events.
-
-Stay safe and take care of each other.
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
@@ -43,12 +46,12 @@ Sunday:
     </p>
     <p>
 Closed<br /> 
-8am - 6pm<br />
-8am - 6pm<br />
-8am - 6pm<br />
-8am - 6pm<br />
-10am - 6pm<br />
-10am - 6pm
+10am - 4pm<br />
+10am - 4pm<br />
+10am - 4pm<br />
+10am - 4pm<br />
+10am - 4pm<br />
+10am - 4pm
     </p>
 </div>
 
