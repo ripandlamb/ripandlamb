@@ -3,15 +3,14 @@ title: Home
 order: 1
 ---
 
-THE RETURN OF RIPLEY AND LAMBERT!
+                THE RETURN OF RIPLEY AND LAMBERT!
 
 From Tuesday 2nd June we will be opening for takeaway and book sales at the door.
-
 Our new opening times will be 10am - 4pm, Tuesday to Sunday.
 
-We look forward to seeing you all!
+               We look forward to seeing you all!
 
-Also...
+ALSO...
 The 
 [Ripley and Lambert Online Shop](https://shop.ripleyandlambert.com/) 
 is now open!  
