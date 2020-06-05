@@ -5,7 +5,7 @@ order: 1
 
 THE RETURN OF RIPLEY AND LAMBERT!
 
-From Tuesday 2nd June we will be opening for takeaway and book sales at the door.
+We have now reopened for takeaway and book sales at the door.
 Our new opening times will be 10am - 4pm, Tuesday to Sunday.
 
 We look forward to seeing you all!
