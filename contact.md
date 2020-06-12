@@ -13,7 +13,7 @@ You can also keep up with the goings on by following us on social media:
 - [Facebook](https://facebook.com/ripleyandlambert)
 - [Twitter](https://twitter.com/ripandlamb)
 
-Or signing up to our mailing list
+Signing up to the Ripley and Lambert mailing list
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -37,4 +37,4 @@ Or signing up to our mailing list
 <!--End mc_embed_signup-->
 
 
-Or [pop into the shop]({{site.baseurl}}/find.html) and say hi!
+And [popping into the shop]({{site.baseurl}}/find.html) and saying hi!
