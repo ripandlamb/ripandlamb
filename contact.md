@@ -13,7 +13,7 @@ You can also keep up with the goings on by following us on social media:
 - [Facebook](https://facebook.com/ripleyandlambert)
 - [Twitter](https://twitter.com/ripandlamb)
 
-or signing up to our mailing list with the form below
+Or signing up to our mailing list
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -25,7 +25,7 @@ or signing up to our mailing list with the form below
 <div id="mc_embed_signup">
 <form action="https://ripleyandlambert.us4.list-manage.com/subscribe/post?u=16ee2bf7dd35a0a31f931f357&amp;id=b9b28d0fa8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to the Ripley and Lambert mailing list for news, updates and exclusive offers!</label>
+	
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_16ee2bf7dd35a0a31f931f357_b9b28d0fa8" tabindex="-1" value=""></div>
@@ -36,4 +36,5 @@ or signing up to our mailing list with the form below
 
 <!--End mc_embed_signup-->
 
-or [pop into the shop]({{site.baseurl}}/find.html) and say hi!
+
+Or [pop into the shop]({{site.baseurl}}/find.html) and say hi!
