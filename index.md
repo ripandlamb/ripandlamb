@@ -13,13 +13,13 @@ We look forward to seeing you all!
 
 ALSO...
 The 
-[Ripley and Lambert Online Shop](https://shop.ripleyandlambert.com/) 
+<b>[Ripley and Lambert Online Shop](https://shop.ripleyandlambert.com/)</b> 
 is now open!  
 
 Our full selection of fantastic film books is available to be ordered online and posted right to your door!  
 
 Click
-[HERE](https://shop.ripleyandlambert.com/)
+<b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go directly to the online shop.
 
 <div class="splash">
