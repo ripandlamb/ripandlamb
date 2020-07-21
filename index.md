@@ -5,8 +5,8 @@ order: 1
 
 THE RETURN OF RIPLEY AND LAMBERT!
 
-We have now reopened for takeaway and book sales.
-Our new opening times are 10am - 5pm, Tuesday to Sunday.
+We are now fully reopened, for eat in, takeaway and book, game and card sales!
+Our opening times are 10am - 5pm, Tuesday to Sunday.
 
 We look forward to seeing you all!
 
