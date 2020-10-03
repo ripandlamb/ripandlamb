@@ -3,8 +3,7 @@ title: Home
 order: 1
 ---
 
-The [OCTOBER ONLINE SHOP SALE](https://shop.ripleyandlambert.com/shop/sale-/32)</b> 
-is on!  
+The [OCTOBER ONLINE SHOP SALE](https://shop.ripleyandlambert.com/shop/sale-/32) is on!  
 
 Up to 50% discount on 100s of books, exclusively on our web store!
 
