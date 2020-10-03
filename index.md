@@ -3,20 +3,11 @@ title: Home
 order: 1
 ---
 
-THE RETURN OF RIPLEY AND LAMBERT!
+The  
+<b>[October Online Shop Sale](https://shop.ripleyandlambert.com/shop/sale-/32)</b> 
+is on!  
 
-We are now fully reopened, for eat in, takeaway, and books, games and cards sales!
-Our opening times are 10am - 6pm, Tuesday to Sunday.
-
-We look forward to seeing you all!
-
-
-ALSO...
-The 
-<b>[Ripley and Lambert Online Shop](https://shop.ripleyandlambert.com/)</b> 
-is now open!  
-
-Our full selection of fantastic film books is available to be ordered online and posted right to your door!  
+Up to 50% discount on 100s of books, exclusively on our web store!
 
 Click
 <b>[HERE](https://shop.ripleyandlambert.com/)</b>
