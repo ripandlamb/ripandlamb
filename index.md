@@ -6,7 +6,7 @@ order: 1
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
 <b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>
-Fully operational throughout lockdown and with discounts on 100s of books right now!
+- Fully operational throughout lockdown and with discounts on 100s of books right now!
 
 Unfortunately our shop at 542 Kingsland Road is temporarily closed due to the second lockdown but we will be back open in December and ready to welcome you!
 
