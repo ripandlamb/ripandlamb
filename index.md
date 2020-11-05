@@ -3,14 +3,12 @@ title: Home
 order: 1
 ---
 
-The <b>[OCTOBER ONLINE SHOP SALE](https://shop.ripleyandlambert.com/shop/sale-/32)</b>
-is on!  
+Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
+to go to our
+<b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>
+Fully operational throughout lockdown and with discounts on 100s of books right now!
 
-Up to 50% discount on 100s of books, exclusively on our web store!
-
-Click
-<b>[HERE](https://shop.ripleyandlambert.com/)</b>
-to go directly to the online shop.
+Unfortunately our shop at 542 Kingsland Road is temporarily closed due to the second lockdown but we will be back open in December and ready to welcome you!
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
