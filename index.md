@@ -8,7 +8,7 @@ to go to our
 <b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>,
 fully operational throughout lockdown and with discounts on 100s of books right now!
 
-Throughout the second lockdown period our shop at 542 Kingsland Road will be open Tuesday to Friday, 10am to 2pm, for takeaway drinks and online order collection from the door.
+Throughout the second lockdown period our shop at 542 Kingsland Road will be open Tuesday to Saturday, 10am to 2pm, for takeaway drinks and online order collection from the door.
 
 We will be back open fully in December and ready to welcome you!
 
