@@ -3,14 +3,12 @@ title: Home
 order: 1
 ---
 
+We are now back open, Tuesday to Sunday, 10am - 6pm!
+
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
 <b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>,
-fully operational throughout lockdown and with discounts on 100s of books right now!
-
-Throughout the second lockdown period our shop at 542 Kingsland Road will be open Tuesday to Saturday, 10am to 2pm, for takeaway drinks and online order collection from the door.
-
-We will be back open fully in December and ready to welcome you!
+with discounts on 100s of books right now!
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
