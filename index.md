@@ -5,7 +5,7 @@ order: 1
 
 We are now back open, Tuesday to Sunday, 10am - 6pm!
 
-<b>Christmas Opening Hours
+<b>CHRISTMAS OPENING HOURS
 
 Christmas Eve: 10am - 4pm
 
