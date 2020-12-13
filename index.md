@@ -19,7 +19,7 @@ to go to our
 <b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>,
 with discounts on 100s of books right now!
 
-Last online delivery orders for Christmas delivery should be placed by Thursday 17th December
+Last online delivery orders for Christmas delivery should be placed by <b>Thursday 17th December</b>
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
