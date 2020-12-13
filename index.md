@@ -5,13 +5,14 @@ order: 1
 
 We are now back open, Tuesday to Sunday, 10am - 6pm!
 
-<b>Christmas Opening Hours</b>
+<b>Christmas Opening Hours
 
 Christmas Eve: 10am - 4pm
 
 Christmas Day to New Years Eve: Closed
 
-New Years Day: 12pm - 6pm
+New Years Day: 12pm - 6pm</b>
+
 
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
