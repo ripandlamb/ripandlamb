@@ -5,10 +5,16 @@ order: 1
 
 We are now back open, Tuesday to Sunday, 10am - 6pm!
 
+<b>Christmas Opening Hours</b>
+Christmas Eve: 10am - 4pm
+Christmas Day to New Years Eve: Closed
+New Years Day: 12pm - 6pm
+
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
 <b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>,
 with discounts on 100s of books right now!
+Last online delivery orders for Christmas delivery should be placed by Thursday 17th December
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
