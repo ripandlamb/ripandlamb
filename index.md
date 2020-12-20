@@ -3,16 +3,18 @@ title: Home
 order: 1
 ---
 
-We are now back open, Tuesday to Sunday, 10am - 6pm!
-
 <b>CHRISTMAS OPENING HOURS</b>
+[Click and Collect ONLY](https://shop.ripleyandlambert.com/)
 
-Christmas Eve: 10am - 4pm
+Tuesday 22nd: 12pm - 4pm
+
+Wednesday 23rd: 12pm - 4pm
+
+Christmas Eve: 12pm - 4pm
 
 Christmas Day to New Years Eve: Closed
 
-New Years Day: 12pm - 6pm
-
+January Opening Hours TBC
 
 
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
