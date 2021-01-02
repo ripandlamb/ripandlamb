@@ -5,11 +5,13 @@ order: 1
 
 <b>JANUARY SALE!!!</b>
 
-21% discount of ALL books, games and cards!
+21% discount off ALL books, games and cards!
+
 Use code <b>JAN21</b> to apply discount in our
 [Online Store](https://shop.ripleyandlambert.com/)
 
 <b>JANUARY OPENING HOURS</b>
+
 For takeaway drinks and pastries and
 [Click and Collect](https://shop.ripleyandlambert.com/)
 
