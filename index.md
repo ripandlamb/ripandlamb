@@ -3,19 +3,19 @@ title: Home
 order: 1
 ---
 
-<b>CHRISTMAS OPENING HOURS</b>
-[Click and Collect ONLY](https://shop.ripleyandlambert.com/)
+<b>JANUARY SALE!!!</b>
 
-Tuesday 22nd: 12pm - 4pm
+21% discount of ALL books, games and cards!
+Use code <b>JAN21</b> to apply discount in our
+[Online Store](https://shop.ripleyandlambert.com/)
 
-Wednesday 23rd: 12pm - 4pm
+<b>JANUARY OPENING HOURS</b>
+For takeaway drinks and pastries and
+[Click and Collect](https://shop.ripleyandlambert.com/)
 
-Christmas Eve: 12pm - 4pm
+11am - 4pm
 
-Christmas Day to New Years Eve: Closed
-
-January Opening Hours TBC
-
+Tuesdays - Sundays
 
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
