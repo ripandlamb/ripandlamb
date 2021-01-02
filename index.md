@@ -15,9 +15,8 @@ Use code <b>JAN21</b> to apply discount in our
 For takeaway drinks and pastries and
 [Click and Collect](https://shop.ripleyandlambert.com/)
 
-11am - 4pm
+11am - 4pm, Tuesdays - Sundays
 
-Tuesdays - Sundays
 
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
