@@ -12,10 +12,10 @@ Use code <b>JAN21</b> to apply discount in our
 
 <b>JANUARY OPENING HOURS</b>
 
-For takeaway drinks and pastries and
+For takeaway drinks and
 [Click and Collect](https://shop.ripleyandlambert.com/)
 
-11am - 4pm, Tuesdays - Sundays
+12pm - 4pm, Tuesdays - Sundays
 
 
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
