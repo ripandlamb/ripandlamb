@@ -3,19 +3,17 @@ title: Home
 order: 1
 ---
 
+The shop will not be open for Click and Collect or takeaway this week (Monday 25th January - Sunday 31st January) but you can still order for delivery through 
+our 
+[ONLINE STORE](https://shop.ripleyandlambert.com/)
+
+
 <b>JANUARY SALE!!!</b>
 
 21% discount off ALL books, games and cards!
 
 Use code <b>JAN21</b> to apply discount in our
 [Online Store](https://shop.ripleyandlambert.com/)
-
-<b>JANUARY OPENING HOURS</b>
-
-For takeaway drinks and
-[Click and Collect](https://shop.ripleyandlambert.com/)
-
-12pm - 4pm, Tuesdays - Sundays
 
 
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
