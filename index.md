@@ -3,7 +3,9 @@ title: Home
 order: 1
 ---
 
-From 3rd February, the shop will be open Wednesdays - Saturdays, 12pm - 4pm, for click and collect orders and takeaway from the door
+From 3rd February, the shop will be open 
+<b>Wednesdays - Saturdays, 12pm - 4pm</b>
+for click and collect orders and takeaway from the door
  
 Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
 to go to our
