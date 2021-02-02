@@ -5,7 +5,9 @@ order: 1
 
 From 3rd February, the shop will be open
 <br>
+<br>
 <b>Wednesdays - Saturdays, 12pm - 4pm</b>
+<br>
 <br>
 for click and collect orders and takeaway from the door
  
