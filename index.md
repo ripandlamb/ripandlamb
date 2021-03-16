@@ -3,18 +3,11 @@ title: Home
 order: 1
 ---
 
-From 3rd February, the shop will be open
-<br>
-<br>
-<b>Wednesdays - Saturdays, 12pm - 4pm</b>
-<br>
-<br>
-for click and collect orders and takeaway from the door
- 
-Click <b>[HERE](https://shop.ripleyandlambert.com/)</b>
-to go to our
-<b>[ONLINE SHOP](https://shop.ripleyandlambert.com/)</b>,
-with discounts on 100s of books right now!
+We are deeply saddened to announce that unfortunately, due to the effects of the pandemic and the ongoing restrictions, Ripley and Lambert has had to close permanently.
+
+I wanted to say a huge and heartfelt thank you to everyone who has worked at Ripley and Lambert, hosted an event here, helped and supported the shop, and to everyone who has been a customer with us.
+
+Final report of the commercial star-ship Nostromo, Hasta la vista baby, and May the Force be with you...
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
