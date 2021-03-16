@@ -11,7 +11,7 @@ Final report of the commercial star-ship Nostromo, Hasta la vista baby, and May 
 
 <div class="splash">
     <p><a href="https://www.timeout.com/london/news/vote-for-your-favourite-batman-at-this-ace-new-movie-bookshop-110419">"A trove of movie goodness"<br /><br />Time Out</a></p>
-    <img class="hero" src="{{ site.baseurl }}/images/hero.jpg" />
+    <img class="hero" src="{{ site.baseurl }}/images/Closed.jpg" />
     <p><a href="https://www.hackneycitizen.co.uk/2019/10/14/ripley-and-lambert-dalston-cafe-film/">"Cafe paradise for film fans"<br /><br />Hackney Citizen</a></p>
 </div>
 
